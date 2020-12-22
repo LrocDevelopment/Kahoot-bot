@@ -1,7 +1,7 @@
 # Kahoot-bot
 Kahoot-botti joka toimii python koodilla! Kato youtube tutoriaali video kuinka tehdä botti! Linkki: 
 
-## Kuinka saada tokimimaan?
+## Kuinka saada toimimaan?
 - lataa ja extract työpöydälle
 - sinulla pitää olla https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe asennettuna ja kun olet asentamassa laita add to path
 - restarttaa kone (ei aina tarvitse)
