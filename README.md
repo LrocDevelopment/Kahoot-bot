@@ -11,3 +11,4 @@ Kahoot-botti joka toimii python koodilla! Kato youtube tutoriaali video kuinka t
 - mene Bot.py ja paina f5 
 - python script ja enter
 - Tadaa!
+ 
