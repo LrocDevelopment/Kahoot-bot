@@ -1,5 +1,5 @@
 # Kahoot-bot
-Kahoot-botti joka toimii python koodilla! Kato youtube tutoriaali video kuinka tehdä!
+Kahoot-botti joka toimii python koodilla! Kato youtube tutoriaali video kuinka tehdä botti! Linkki: 
 
 ## Kuinka saada tokimimaan?
 - lataa ja extract työpöydälle
