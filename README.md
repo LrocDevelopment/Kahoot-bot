@@ -12,3 +12,4 @@ Kahoot-botti joka toimii python koodilla! Kato youtube tutoriaali video kuinka t
 - python script ja enter
 - Tadaa!
 
+ 
